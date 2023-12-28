@@ -1,0 +1,9 @@
+{
+  "address":[{
+    "houseNo": "b-102",
+    "street": "hanuman raod",
+    "city": "gurugram",
+    "state" : "haryana",
+    "pinCode" : 122001
+  }]
+}

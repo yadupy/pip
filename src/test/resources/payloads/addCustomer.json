@@ -1,0 +1,13 @@
+{
+  "firstName": "Kiba",
+  "lastName": "Inuzuka",
+  "email": "Kiba.Inuzuka@gmail.com",
+  "contactNumber": "9785481268",
+  "address":[{
+    "houseNo": "b-102",
+    "street": "Inuzuka raod",
+    "city": "gurugram",
+    "state" : "haryana",
+    "pinCode" : 122001
+  }]
+}
